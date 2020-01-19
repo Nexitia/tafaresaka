@@ -1,0 +1,16 @@
+{ 
+   "id":"Root",
+   "components":[ 
+      { 
+         "id":"Content",
+         "processor":"LicenceViewProcessor",
+         "properties": {
+         	"licence" : "apacheLicence.txt"
+         }
+      }
+   ],
+   "menus":[ 
+   ],
+   "properties":{ 
+   }
+}

@@ -1,0 +1,15 @@
+{ 
+   "id":"Root",
+   "components":[ 
+      { 
+         "id":"Content",
+         "processor":"AboutViewProcessor",
+         "properties": {
+         }
+      }
+   ],
+   "menus":[ 
+   ],
+   "properties":{ 
+   }
+}

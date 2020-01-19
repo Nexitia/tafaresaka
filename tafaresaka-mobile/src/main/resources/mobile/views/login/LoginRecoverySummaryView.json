@@ -1,0 +1,1 @@
+{"id":"Root","components":[{"id":"Content","subcomponents":[{"id":"OkButton","subcomponents":[{"id":"Handler","properties":{"action":"CloseSecondaryRSAction"}}],"properties":{"tooltip":"OK_LABEL","label":"OK_LABEL","type":"ProcessingButton","styleClass":"login-button,login-button-primary"}}],"properties":{"title":"RECOVER_SUMMARY_LABEL"}}],"menus":[],"properties":{}}
