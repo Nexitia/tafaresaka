@@ -37,6 +37,11 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>org.liquibase</groupId>
+			<artifactId>liquibase-core</artifactId>
+		</dependency>
+		
+		<dependency>
 			<groupId>io.github.jsoagger</groupId>
 			<artifactId>jsoagger-corebusiness-services</artifactId>
 			<version>1.0.1-SNAPSHOT</version>

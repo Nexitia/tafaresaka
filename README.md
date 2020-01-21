@@ -42,7 +42,7 @@ The profile npm-install should be run only the first time project install.
 Be aware, the URL inside the h2 console must be:
 
 ```
-jdbc:h2:tcp://localhost/foundation;MVCC=TRUE;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE;DB_CLOSE_DELAY=-1
+jdbc:h2:tcp://localhost/tafaresaka;MVCC=TRUE;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE;DB_CLOSE_DELAY=-1
 ```
 
 ## 2. Start the backend server
